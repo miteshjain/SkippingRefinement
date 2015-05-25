@@ -1,2 +1,2 @@
 # SkippingRefinement
-www.ccs.neu.edu/home/jmitesh/sks
+Skipping Refinement paper: http://arxiv.org/abs/1502.02942
